@@ -6,7 +6,7 @@ A Streamlit app that detects four structures in 2D knee MRI slices:
 ACL, PCL, Meniscus and Cartilage, using a YOLO11n model fine-tuned on fastMRI+ annotations.
 
 ## Links
-- Live app: _add your Streamlit link here_
+- Live app: https://knee-mri-detection-vdrba4wzr86phniatjruzt.streamlit.app/
 - Fine-tuned model: https://huggingface.co/hajirabaloch488/knee-mri-yolo11n
 - Pretrained base model: https://huggingface.co/Ultralytics/YOLO11 (`yolo11n.pt`)
 
