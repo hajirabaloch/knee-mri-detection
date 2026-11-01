@@ -1,1 +1,0 @@
-# knee-mri-detection
