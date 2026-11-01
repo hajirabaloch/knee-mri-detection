@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.51
+ultralytics==8.4.197
+huggingface_hub
+opencv-python-headless
+pillow
+numpy
+pandas
+torch
+torchvision
